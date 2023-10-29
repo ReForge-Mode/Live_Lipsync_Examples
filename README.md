@@ -17,6 +17,7 @@ Once you download and extract the zip file or clone the project to your Git appl
 
 After you download and install the Unity version, you can add this version of Unity back to Unity Hub and open it. Once the project is opened, don't forget to double click the Scene file in the Project Window.
 
+
 ## Adding Mouth Blendshapes
 In the tutorial video, I mentioned adding in extra mouth blendshapes. You can either do this manually with NEBPro or NEBLite. You're looking to copy these three mouth blendshapes from Extra Mouth Blendshapes.vrm file:
 
@@ -30,9 +31,27 @@ I've made a separate tutorial for NEBLite and NEBPro here:
 
 [![FREE HanaTool Alternative!](https://github.com/FFaUniHan/Live_Lipsync_Examples/blob/main/Video2.jpg)](https://youtu.be/ZQh7BQ_qQYE "FREE HanaTool Alternative!)")
 
+
 ## Switching Between Models
 Once you have set up the Profile like in the video, you don't need to set it up again for a new character model. You can just drag the profile into your uLipSync component.
 
 Of course, you still have to follow the initial steps in the new character model as well, like adding Lipsync child gameobject, Audio Source component, uLipSync component, and uLipSyncBlendshape component. But you can keep reusing the Profile for every character.
 
 <img src="https://github.com/FFaUniHan/Live_Lipsync_Examples/blob/main/Screenshot1.png" width=100% height=100%>
+
+
+# Support me on Ko-Fi or Patreon
+
+<img src="https://github.com/FFaUniHan/Live_Lipsync_Examples/blob/main/LogoPatreonKofi.png" width=50% height=50%>
+
+If this tutorial helps you, consider supporting me on these platforms. I would like to do more tutorials in the future!
+- Patreon: https://www.patreon.com/ReForgeMode
+- Ko-Fi: https://ko-fi.com/reforgemode
+
+
+# Got any questions?
+
+<img src="https://github.com/FFaUniHan/Live_Lipsync_Examples/blob/main/LogoDiscord.png" width=30% height=30%>
+
+Encounter any weird bugs or problems? Let's talk about it on our Discord server forums:
+- Discord Server https://discord.com/invite/aDMGjpFeBX
