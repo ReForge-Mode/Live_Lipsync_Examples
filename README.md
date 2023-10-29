@@ -1,4 +1,6 @@
 # LIVE Runtime Lipsync with uLipSync
+uLipSync is the most underrated lipsync plugin EVER. I'm trying to change that right now! In this tutorial video, I'm going to show you how to use uLipSync plugin by hecomi.
+
 This project contains both 3D and URP project already installed with UniVRM and URP Shader. This project is made with Unity version 2022.2.17f1. Earlier version of Unity might not work.
 
 Huge credit to these guys who made this possible!
